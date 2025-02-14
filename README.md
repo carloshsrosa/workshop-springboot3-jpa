@@ -3,7 +3,7 @@
 Este repositório contém um projeto de workshop que demonstra o uso do **Spring Boot 3** e **JPA** para a construção de uma API REST.
 
 ## 🚀 Tecnologias Utilizadas
-- **Java 17+**
+- **Java 21+**
 - **Spring Boot 3**
 - **Spring Data JPA**
 - **H2 Database**
@@ -11,7 +11,7 @@ Este repositório contém um projeto de workshop que demonstra o uso do **Spring
 
 ## 📌 Pré-requisitos
 Antes de começar, você precisará ter instalado:
-- [JDK 17+](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+- [JDK 21+](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)
 - [Apache Maven](https://maven.apache.org/)
 - [Git](https://git-scm.com/)
 
