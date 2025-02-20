@@ -33,7 +33,6 @@ docker-compose up -d
 ```
 
 ### 4. Acessar a API
-- **Swagger UI:** [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
 - **H2 Console (caso esteja usando H2):** [http://localhost:8080/h2-console](http://localhost:8080/h2-console)
 
 ## Estrutura do Projeto
