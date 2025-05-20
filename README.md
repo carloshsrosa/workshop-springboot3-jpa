@@ -40,4 +40,3 @@ Demonstrar na prática o uso de:
 ```bash
 # Clone o repositório
 git clone https://github.com/carloshsrosa/workshop-springboot3-jpa.git
-cd workshop-springboot3-jpa
